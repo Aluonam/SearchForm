@@ -1,4 +1,3 @@
-# SearchForm
 Configura un nuevo proyecto React utilizando Create React App o una configuración similar si lo prefieres.
 
 Crea un componente llamado SearchForm que contenga un formulario con un campo de entrada de texto y un botón de búsqueda.
